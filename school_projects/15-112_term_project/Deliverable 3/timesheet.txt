@@ -1,0 +1,50 @@
+
+Term Project Timesheet
+04/08/14
+->1-2 hours planning project/finding modules
+
+04/13/14
+-> 3-4 hours downloading modules
+->1-2 hours learning the basics of Pygame (Mixer class, sndarray class, classes associated with animation)
+
+04/14/14
+-> 2 hours reinstalling applications and modules/planning out tools necessary for sound manipulation(i.e.pygame, numpy)
+
+04/15/14
+-> 30 min downloading SciPy to manipulate sndarrays(numpy arrays representing sound waves)
+-> 1-2 hours revising plans for use of modules/ revisiting competitive analysis
+
+04/18/14
+- 3-4 hours learning more about pygame/making switches in a clean way+learning how to modify solid tones in a manageable manner (i.e.clearer planning)
+
+04/19/14
+- 4-5 hours finishing up switches and mapping them to control values
+
+04/20/14
+-2-3 hours mapping key presses to pitches, mapping a switch for volume, sound length, and fadeout
+-2-3 hours working out a sustain key and figuring out an algorithm for recording(with some CA help)
+
+04/21/14
+-1 hour making a recorded sound class/ organizing how data would be stored and accessed for each sound
+
+04/22/14
+- 1 hour writing play and record functions, not mapped to keys or buttons yet
+- 2 hours debugging record and play function after mapping to keys
+
+04/23/14
+-4-5 hours making some temporary and permanent UI structures as well as making a system and basic interface for recording new Tracks
+
+04/27/14
+-2 hours making a project interface for making permanent tracks
+
+04/28/14
+-4 hours making a song visualization, a play animation, a basic UI, and 1 more sound changing feature: “attack”
+
+04/29/14
+-4 hours making a Tutorial and fixing visualization
+
+04/30/14
+-6 hours making a video, debugging, finalizing UI, cleaning up code
+-3 hours finalizing deliverable 3
+
+

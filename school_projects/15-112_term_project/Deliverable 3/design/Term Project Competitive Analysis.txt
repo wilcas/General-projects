@@ -1,0 +1,13 @@
+William Casazza 
+15-112- Section H
+9 April 2014
+Competitive Analysis
+Out of the similar synthesizer products I found, there were several features I might consider and others I could definitely exclude. Synthesizers out there range from very simple synths that take in an audio file and simply change just that audio file’s balances. I could see my program having an interface that could use sliders to modify certain sound levels. I could possibly have some sort of initial presets for each built in and recorded synthesizer saved in the program. Another program had a very nice interface with several built in sounds and nobs to modify sounds. The developer claimed to write the entire program using Pygame and NumPy, which led me to believe that these modules were powerful enough to support a very user-friendly program.  However, neither of the programs had a recording feature or a suitable interface for playing tones using one’s keyboard alone, which I feel would make the program more accessible and entertaining for a casual user. Further examples of sound programs that I found included the option of recording new audio files using synths in order to make a song, which could be very doable If I am able to work well with sound from the tools I have at my disposal. Overall, it seems as though I am only limited by my ability to understand computerized sound manipulation and the complexity with which I am willing to work with. 
+Links:
+Editing sounds with sliders: http://www.youtube.com/watch?v=PU8M0eIqgy4
+
+Full Scale Synthesizer: http://www.youtube.com/watch?v=seWLevtRgMY
+
+Piano and recording: http://www.youtube.com/watch?v=qtJsYd8McvA
+
+

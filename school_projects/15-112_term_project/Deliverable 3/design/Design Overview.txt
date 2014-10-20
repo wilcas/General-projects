@@ -1,0 +1,14 @@
+William Casazza
+15-112
+Professor Kosbie
+1 May 2014
+Design Overview
+
+Basic Recording Functionality
+	My program aims to take basic wav files and modify them to make musical notes. From there, I take these sounds and  “record” them with the ability to play them back. The final goal is to combine recordings into permanent projects to play back. In order to play the wav files and modify them, I used a pygame module to load in wav files with basic sounds and convert them into arrays. I resample these arrays at different rates with another module in order to make the sound play at a different pitch. A combination of built-in pygame functions and using simple math to change the array representation of the sound file changes how the pitch is played.
+	Recording the sounds and playing them back was more complicated. The changed sound arrays are first made into a pygame object called a “Sound” object, which can be played with built in functions. When the program is recording, map the total time spent recording to a Recorded Sound object that contains both this sound object and the values modifying how the sound was played (i.e. a dictionary mapping time keys to recorded sounds). Playing the sound back takes this dictionary and uses threading to play the objects back at their specified times. Projects are just lists containing several song dictionaries played back in the same way. 
+User Interface and Display
+As an aside, recorded notes are displayed using the time at which they were played and their total length, and the point of this is to make it more user friendly. Users have several key presses and switches in order to play whatever sound they wish. Although these controls were usable, most users were confused could not figure out what exactly they needed to perform basic program functions. Therefore I resolved to create a tutorial and clearer labels, which made the program easier to understand for later users. 
+The controls themselves were decided upon based on several factors. I chose the keyboard for notes so anyone could theoretically play notes in a piano like fashion without any more hardware than their computer. Sounds were modified with slide controls so a full gradient of changes could be made and users could customize as much as possible. Key presses for playing and record where decided in order for the user to easily move their hands to keys that play music quickly after beginning a recording.
+
+

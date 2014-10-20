@@ -1,0 +1,24 @@
+USER STUDY NOTES User 1
+-Interface is very confusing
+-make it clear what synths is- it is not a common term that everyone knows
+-recording process needs to be explained better, user needs to do things exactly right in order for it to work
+-switches are not explained
+-try to avoid a block of text it is unappealing/people will not want to read it\
+-knowing where to start- possibly include some sort of tutorial w/ numbers and steps, make it clear that people should play with controls
+User 2
+-was not aware that switches were something he was supposed to change
+-fix recording animation
+- did not know what a project was
+-instructions are long and not fun to read/ make a diagram
+	-possibly a slide by slide tutorial
+	-explain what effects do
+	-start with effects at different positions
+User 3
+-Didn’t know that instructions were instructions/were hard/ boring to read
+-did not know what switches were
+-crashed when tried to play project/ recording
+-did not know how to record song
+-there’s no indication of when recording starts or stop
+-tutorial should be the first thing you should see
+	-a click through walkthrough would be most helpful
+
