@@ -1,0 +1,21 @@
+Alanine,7.4
+Arginine,4.2
+Asparagine,4.4
+Aspartic Acid,5.9
+Cystine,3.3
+Glutamic Acid,5.8
+Glutamine,3.7
+Glycine,7.4
+Histidine,2.9
+Isoleucine,3.8
+Leucine,7.5
+Lysine,7.2
+Methionine,1.8
+Phenylalanine,4
+Proline,5
+Serine,8
+Threonine,6.2
+Tryptophan,1.3
+Tyrosine,3.3
+Valine,6.8
+Stop Codons,0.1

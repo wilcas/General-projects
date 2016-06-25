@@ -1,0 +1,45 @@
+San Francisco,Boston,110
+New York,Los Angeles,96
+Seattle,Jacksonville,94
+Los Angeles,Chicago,67
+Phoenix,Jacksonville,65
+Medford,Minneapolis,63
+Medford,Omaha,57
+Great Falls,Minneapolis,39
+Phoenix,Seattle,37
+Great Falls,Omaha,35
+San Francisco,Great Falls,32
+Washington,Memphis,29
+Seattle,Great Falls,24
+Denver,Dallas,23
+San Francisco,Salt Lake City,23
+Minneapolis,Memphis,22
+Detroit,Minneapolis,22
+Albuquerque,Dallas,21
+Denver,Great Falls,21
+Chicago,Charlotte,20
+Memphis,Jacksonville,20
+Detroit,New York,20
+Memphis,Charlotte,19
+Denver,Omaha,19
+Chicago,Omaha,18
+Omaha,Dallas,18
+Salt Lake City,Albuquerque,16
+Detroit,Washington,15
+Memphis,Dallas,15
+Chicago,Memphis,15
+Salt Lake City,Denver,15
+Minneapolis,Chicago,14
+Great Falls,Salt Lake City,14
+Los Angeles,Phoenix,13
+Phoenix,Albuquerque,12
+San Francisco,Los Angeles,12
+Charlotte,Washington,11
+Jacksonville,Charlotte,11
+Seattle,Medford,11
+Minneapolis,Omaha,10
+Chicago,Detroit,10
+Albuquerque,Denver,10
+Medford,San Francisco,10
+Washington,New York,8
+New York,Boston,7
